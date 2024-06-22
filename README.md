@@ -27,3 +27,7 @@ This project implements a Convolutional Neural Network (CNN) to classify dog bre
     - Function to predict the breed of a random image from the validation set.
     - Displays the image, its actual breed, and the predicted breed.
 
+
+
+For a detailed explanation of the code and the project, you can view my blog post on the dog breed classifier on Medium [here](https://medium.com/@khushimgajjar/building-a-dog-breed-classifier-with-convolutional-neural-networks-8c6baa7879ba).
+
